@@ -38,4 +38,3 @@ Play against the computer, keep score, and enjoy smooth UI interactions.
 - ✅ Random number generation (`Math.random`, `Math.floor`)  
 - ✅ Responsive & interactive UI design  
 
-## 📂 Project Structure  
