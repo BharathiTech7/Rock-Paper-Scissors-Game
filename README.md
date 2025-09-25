@@ -7,7 +7,7 @@ functional code while designing a smooth and engaging interface. 🚀
 A simple yet interactive **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**.  
 Play against the computer, keep score, and enjoy smooth UI interactions.  
 
-🔗 **Live Demo:** [Click Here]()  
+🔗 **Live Demo:** [Click Here](https://bharathitech7.github.io/Rock-Paper-Scissors-Game/)  
 
 ---
 
